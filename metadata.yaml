@@ -9,10 +9,10 @@ creator:
   author:
     agent_name: Cather, Willa
     aliases:
-    - Cather, Wilella
-    - Catherová, Willa
     - Catherova, Willa
+    - Cather, Wilella
     - Cather, Willa Sibert
+    - Catherová, Willa
     birthdate: 1873
     deathdate: 1947
     gutenberg_agent_id: '22'
@@ -27,17 +27,17 @@ publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
 subjects:
-- '!lcsh:Czech Americans -- Fiction'
-- '!lcsh:Farm life -- Fiction'
-- '!lcsh:Frontier and pioneer life -- Nebraska -- Fiction'
-- '!lcsh:Western stories'
-- '!lcsh:Women immigrants -- Fiction'
-- '!lcsh:Farmers'' spouses -- Fiction'
-- '!lcsh:Domestic fiction'
-- '!lcc:PS'
-- '!lcsh:Nebraska -- Fiction'
-- '!lcsh:Friendship -- Fiction'
-- '!lcsh:Women pioneers -- Fiction'
-- '!lcsh:Married women -- Fiction'
+- '!lcsh: Women immigrants -- Fiction'
+- '!lcsh: Nebraska -- Fiction'
+- '!lcc: PS'
+- '!lcsh: Married women -- Fiction'
+- '!lcsh: Friendship -- Fiction'
+- '!lcsh: Frontier and pioneer life -- Nebraska -- Fiction'
+- '!lcsh: Western stories'
+- '!lcsh: Farm life -- Fiction'
+- '!lcsh: Farmers'' spouses -- Fiction'
+- '!lcsh: Czech Americans -- Fiction'
+- '!lcsh: Domestic fiction'
+- '!lcsh: Women pioneers -- Fiction'
 title: My Antonia
 url: http://www.gutenberg.org/ebooks/242
