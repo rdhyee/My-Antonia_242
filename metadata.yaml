@@ -1,5 +1,5 @@
 _repo: My-Antonia_242
-_version: 0.0.2
+_version: 0.1.0
 covers:
 - attribution: Ed Gaither - Modern Electrographic, 2015
   cover_type: original
@@ -41,5 +41,6 @@ subjects:
 - '!lcsh: Czech Americans -- Fiction'
 - '!lcsh: Domestic fiction'
 - '!lcsh: Women pioneers -- Fiction'
+- GITenberg
 title: My Antonia
 url: http://www.gutenberg.org/ebooks/242
